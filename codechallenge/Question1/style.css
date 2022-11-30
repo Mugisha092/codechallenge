@@ -227,3 +227,8 @@ input:checked + .slider::before{
     float: right;
     left: 50%;
 }
+.footerleft{
+    position: absolute;
+    bottom: 30px;
+    left:49px;
+}
